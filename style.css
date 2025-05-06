@@ -5,7 +5,7 @@
   }
   body {
 font-size: 100%;
-background: linear-gradient( to top, #084888 , #00cfff);
+background: linear-gradient( to top, #84baf0 , #c9ecf4);
   }
  .logo{
   margin: 10px;
@@ -19,6 +19,12 @@ div.image{
 
       
   }
+  
+.redes {
+ 
+  flex-direction: row;
+  margin: 5px;
 
+}
 
 
